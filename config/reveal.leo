@@ -47,6 +47,9 @@
 <v t="leo.20180921103232.1"><vh>快捷鍵</vh>
 <v t="leo.20180921103232.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20180921111626.1"><vh>快捷鍵</vh>
+<v t="leo.20180921111626.2"><vh>投影片快捷鍵</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -383,6 +386,25 @@ make.start()
 						
 </t>
 <t tx="leo.20180921103232.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20180921111626.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180921111626.2"># 投影片快捷鍵
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)
