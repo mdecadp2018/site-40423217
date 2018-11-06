@@ -50,6 +50,9 @@
 <v t="leo.20180921111626.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180921111626.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20181106222828.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181106222828.2"><vh>投影片快捷鍵</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -349,15 +352,17 @@ make.start()
 </t>
 <t tx="leo.20180920215648.2"># Week_01 操作項目
 
-*01_開通作業倉儲：
+* 01_開通作業倉儲：
     下載 p37 到隨身裝置中
     倉儲連結：    https://github.com/mdecadp2018/site-40423217
     網站連結：    https://mdecadp2018.github.io/site-40423217
     投影片連結：https://mdecadp2018.github.io/site-40423217/reveal/
     網誌連結：    https://mdecadp2018.github.io/site-40423217/blog/
-*02_進入課程倉儲：
+    
+* 02_進入課程倉儲：
     連結輸入 mde.tw 進入課程網站
-*03_Onshape各週作業：
+    
+* 03_Onshape各週作業：
     建立 Onshape 帳號，並且釋出各週個階段重點項目</t>
 <t tx="leo.20180920215758.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -374,13 +379,13 @@ make.start()
     透過"python wsgi.py"取得網站埠號"8443"，並於瀏覽器搜尋"https://localhost：8443"
     進入分組網站登錄(ID&amp;Password：admin)編輯
 
-*02_網站編輯。透過工作欄位"Formats"修改文字屬性，調整內文以及分頁標題。
+* 02_網站編輯。透過工作欄位"Formats"修改文字屬性，調整內文以及分頁標題。
     例：
     "企鵝操作紀錄："   大標題為"H1"
     "Week_2："               次標題為"H2"
     "Try~Try~Try~"          再次標題為"H3"
     "01_"、"02_"             為"P"(內文)
-*03_該範例架構(02_網站編輯部分)在匯入影檔及圖檔出現衝突後損毀</t>
+* 03_該範例架構(02_網站編輯部分)在匯入影檔及圖檔出現衝突後損毀</t>
 <t tx="leo.20180921103232.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -392,11 +397,11 @@ make.start()
 </t>
 <t tx="leo.20180921103232.2"># Week_03~04
 
-*01_網站重構：
+* 01_網站重構：
     繼上週網站損毀後，因並未上船階段編輯的版本使得無法回朔，遂"重構"
     03~04週重心放在建立網站內文集編排
 
-*02_電腦輔助設計實習教材：
+* 02_電腦輔助設計實習教材：
     http://mde.tw/cadp2018/content/OnshapeWeek%201.html
     開始Onshape的每週作業</t>
 <t tx="leo.20180921111626.1">&lt;section data-markdown&gt;
@@ -408,15 +413,36 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180921111626.2"># Week_04
+<t tx="leo.20180921111626.2"># Week_05
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+* 繼第三週網站出現問題：
+    期間一直無法修復遂直接重建。
+    更新網站內文並定位內文集編排方式
+    上傳 github 版本序列為"R1(整體章節、次序架構)_V1(細部內容修整、異動)"。
 
+* 01_編輯 Introduction 內文排定該欄位，定位上傳版本序列
+
+* 02_編輯 Ice_shelf 內文排定該欄位，補充week1~week5進度，定位上傳版本序列
+</t>
+<t tx="leo.20181106222828.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181106222828.2"># Week_06
+
+* 繼第三週網站出現問題：
+    期間一直無法修復遂直接重建。
+    更新網站內文並定位內文集編排方式
+    上傳 github 版本序列為"R1(整體章節、次序架構)_V1(細部內容修整、異動)"。
+
+* 01_編輯 Introduction 內文排定該欄位，定位上傳版本序列
+
+* 02_編輯 Ice_shelf 內文排定該欄位，補充week1~week5進度，定位上傳版本序列
 </t>
 </tnodes>
 </leo_file>
