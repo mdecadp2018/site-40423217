@@ -27,7 +27,7 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -358,7 +358,7 @@ make.start()
     網站連結：    https://mdecadp2018.github.io/site-40423217
     投影片連結：https://mdecadp2018.github.io/site-40423217/reveal/
     網誌連結：    https://mdecadp2018.github.io/site-40423217/blog/
-    
+
 * 02_進入課程倉儲：
     連結輸入 mde.tw 進入課程網站
     
@@ -381,10 +381,11 @@ make.start()
 
 * 02_網站編輯。透過工作欄位"Formats"修改文字屬性，調整內文以及分頁標題。
     例：
-    "企鵝操作紀錄："   大標題為"H1"
-    "Week_2："               次標題為"H2"
-    "Try~Try~Try~"          再次標題為"H3"
-    "01_"、"02_"             為"P"(內文)
+"企鵝操作紀錄："   大標題為"H1"
+"Week_2："               次標題為"H2"
+"Try~Try~Try~"          再次標題為"H3"
+"01_"、"02_"             為"P"(內文)
+
 * 03_該範例架構(02_網站編輯部分)在匯入影檔及圖檔出現衝突後損毀</t>
 <t tx="leo.20180921103232.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
