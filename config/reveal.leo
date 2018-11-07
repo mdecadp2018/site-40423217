@@ -21,36 +21,39 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20181108010030.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20181108010030.1"><vh>導入縮排程式碼</vh>
 <v t="leo.20181108010030.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20181108010210.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20181108010210.1"><vh>導入縮排程式碼</vh>
 <v t="leo.20181108010210.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20181108010851.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20181108010851.1"><vh>導入縮排程式碼</vh>
 <v t="leo.20181108010851.2"><vh>引用程式碼</vh></v>
 </v>
 </v>
 <v t="leo.20180920215648.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180920215648.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180920215758.1"><vh>快捷鍵</vh>
+<v t="leo.20181108012036.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181108012036.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20180920215758.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180920215758.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180921103232.1"><vh>快捷鍵</vh>
+<v t="leo.20180921103232.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180921103232.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180921111626.1"><vh>快捷鍵</vh>
+<v t="leo.20180921111626.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180921111626.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181106222828.1"><vh>快捷鍵</vh>
+<v t="leo.20181106222828.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20181106222828.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20181108004721.1" a="E"><vh>各式內容引用範例</vh>
@@ -482,7 +485,8 @@ make.start()
 <t tx="leo.20181108010030.2">## Ice_shelf 冰架、冰棚
 本章節為下半學期分組專題內容預置空間
 
-* 連結：https://mdecadp2018.github.io/site-40423217/content/Ice_shelf.html
+* 連結：
+ https://mdecadp2018.github.io/site-40423217/content/Ice_shelf.html
 </t>
 <t tx="leo.20181108010210.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -496,9 +500,11 @@ make.start()
 						
 </t>
 <t tx="leo.20181108010210.2">## Icebergs 冰山
-本章節為近期使用Onshape &amp; Fusion360 之作品、專案
+本章節為近期使用Onshape &amp; Fusion360 個別及搭配操作之作品、專案
     
-* 連結：https://mdecadp2018.github.io/site-40423217/content/Icebergs.html</t>
+    
+* 連結：
+ https://mdecadp2018.github.io/site-40423217/content/Icebergs.html</t>
 <t tx="leo.20181108010851.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -510,7 +516,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108010851.2">## Driffing_Icebergs
+<t tx="leo.20181108010851.2">## Driffing_Icebergs 浮冰、碎冰
 本章節為學期上半針對
     
 * Weekwork  課程筆記
@@ -520,6 +526,32 @@ make.start()
 * Fusion 360  心得分享
     
     
-* 連結：https://mdecadp2018.github.io/site-40423217/content/Driffing_Icebergs.html</t>
+* 連結：
+ https://mdecadp2018.github.io/site-40423217/content/Driffing_Icebergs.html</t>
+<t tx="leo.20181108012036.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108012036.2"># Week_01 操作項目
+
+* 01_開通作業倉儲：
+ 下載 p37 到隨身裝置中
+ 倉儲連結：    https://github.com/mdecadp2018/site-40423217
+ 網站連結：    https://mdecadp2018.github.io/site-40423217
+ 投影片連結：https://mdecadp2018.github.io/site-40423217/reveal/
+ 網誌連結：    https://mdecadp2018.github.io/site-40423217/blog/
+
+* 02_進入課程倉儲：
+    連結輸入 mde.tw 進入課程網站
+    
+* 03_Onshape各週作業：
+    建立 Onshape 帳號，並且釋出各週個階段重點項目
+
+</t>
 </tnodes>
 </leo_file>
