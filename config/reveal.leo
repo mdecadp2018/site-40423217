@@ -25,24 +25,21 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20181108010030.1"><vh>導入縮排程式碼</vh>
+<v t="leo.20181108010030.1" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20181108010030.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20181108010210.1"><vh>導入縮排程式碼</vh>
+<v t="leo.20181108010210.1" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20181108010210.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20181108010851.1"><vh>導入縮排程式碼</vh>
+<v t="leo.20181108010851.1" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20181108010851.2"><vh>引用程式碼</vh></v>
 </v>
 </v>
 <v t="leo.20180920215648.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180920215648.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20181108012036.1" a="E"><vh>快捷鍵</vh>
-<v t="leo.20181108012036.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180920215758.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180920215758.2"><vh>投影片快捷鍵</vh></v>
@@ -189,7 +186,9 @@ Created by 40423217(https://mdecadp2018.github.io/site-40423217/content/index.ht
 
 * Icebergs
 
-* Driffing_Icebergs</t>
+* Driffing_Icebergs
+
+</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -346,7 +345,7 @@ Created by 40423217(https://mdecadp2018.github.io/site-40423217/content/index.ht
 <t tx="leo.20180921103232.2"># Week_03~04
 
 * 01_網站重構：
-    繼上週網站損毀後，因並未上船階段編輯的版本使得無法回朔，遂"重構"
+    繼上週網站損毀後，因並未上傳階段編輯的版本使得無法回朔，遂"重構"
     03~04週重心放在建立網站內文集編排
 
 * 02_電腦輔助設計實習教材：
@@ -383,7 +382,7 @@ Created by 40423217(https://mdecadp2018.github.io/site-40423217/content/index.ht
 
 						
 </t>
-<t tx="leo.20181106222828.2"># Week_06
+<t tx="leo.20181106222828.2"># Week_06、07、08
 
 * 繼第三週網站出現問題：
     期間一直無法修復遂直接重建。
@@ -392,8 +391,7 @@ Created by 40423217(https://mdecadp2018.github.io/site-40423217/content/index.ht
 
 * 01_編輯 Introduction 內文排定該欄位，定位上傳版本序列
 
-* 02_編輯 Ice_shelf 內文排定該欄位，補充week1~week5進度，定位上傳版本序列
-</t>
+* 02_編輯 Ice_shelf 內文排定該欄位，補充week1~week5進度，定位上傳版本序列</t>
 <t tx="leo.20181108004721.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -504,7 +502,9 @@ make.start()
     
     
 * 連結：
- https://mdecadp2018.github.io/site-40423217/content/Icebergs.html</t>
+ https://mdecadp2018.github.io/site-40423217/content/Icebergs.html
+
+</t>
 <t tx="leo.20181108010851.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -527,30 +527,7 @@ make.start()
     
     
 * 連結：
- https://mdecadp2018.github.io/site-40423217/content/Driffing_Icebergs.html</t>
-<t tx="leo.20181108012036.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108012036.2"># Week_01 操作項目
-
-* 01_開通作業倉儲：
- 下載 p37 到隨身裝置中
- 倉儲連結：    https://github.com/mdecadp2018/site-40423217
- 網站連結：    https://mdecadp2018.github.io/site-40423217
- 投影片連結：https://mdecadp2018.github.io/site-40423217/reveal/
- 網誌連結：    https://mdecadp2018.github.io/site-40423217/blog/
-
-* 02_進入課程倉儲：
-    連結輸入 mde.tw 進入課程網站
-    
-* 03_Onshape各週作業：
-    建立 Onshape 帳號，並且釋出各週個階段重點項目
+ https://mdecadp2018.github.io/site-40423217/content/Driffing_Icebergs.html
 
 </t>
 </tnodes>
