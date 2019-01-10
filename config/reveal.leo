@@ -325,7 +325,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153759.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)上課內容&lt;/font&gt;
+<t tx="leo.20190110153759.3">## &lt;b&gt;&lt;font&gt;第一週(week1)上課內容&lt;/font&gt;
 
 * 1.進入Github帳號後，連結至[mdecadp2018](https://classroom.github.com/a/fGqXU9kO )，以領取期中作業。
 
@@ -631,7 +631,9 @@ vertical: body pane on the botton</t>
 
 * 1.期中自評70分。
 
-* 2.期末專題分組建立組別[finalproject-ag1](https://github.com/mdecadp2018/finalproject-ag1)。</t>
+* 2.期末專題分組建立組別[finalproject-ag1](https://github.com/mdecadp2018/finalproject-ag1)。
+
+</t>
 <t tx="leo.20190110153946.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -941,7 +943,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110180858.2">## &lt;b&gt;&lt;font color="#FFFF00"&gt;40423217_2019reveal&lt;/font&gt;
+<t tx="leo.20190110180858.2">## &lt;b&gt;&lt;font &gt;40423217_2019reveal&lt;/font&gt;&lt;b&gt;
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
