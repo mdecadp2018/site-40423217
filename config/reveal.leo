@@ -44,9 +44,6 @@
 <v t="leo.20190110153817.2" a="E"><vh>第三週(week3)課程內容</vh>
 <v t="leo.20190110153817.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20190110153817.4" a="E"><vh>第三週(week3)上課心得</vh>
-<v t="leo.20190110153817.5"><vh>心得</vh></v>
-</v>
 </v>
 <v t="leo.20190110153832.1" a="E"><vh>第四週(week4)10/05</vh>
 <v t="leo.20190110153832.4" a="E"><vh>第四週(week4)公假</vh>
@@ -132,7 +129,7 @@
 <v t="leo.20190110154121.5"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20190110154132.1"><vh>第十七週(week17)01/04</vh>
+<v t="leo.20190110154132.1" a="E"><vh>第十七週(week17)01/04</vh>
 <v t="leo.20190110154132.2" a="E"><vh>第十七週(week17)課程內容</vh>
 <v t="leo.20190110154132.3"><vh>內容</vh></v>
 </v>
@@ -359,7 +356,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153809.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第二週(week2)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110153809.3">## &lt;b&gt;&lt;font&gt;第二週(week2)上課內容&lt;/font&gt;&lt;/b&gt;
 
 * 1.進入Github帳號後，進到Setting將內定的branch:master設為gf-pages方便我們之後的改版都是在此分支上做。
 
@@ -382,7 +379,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153809.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第二週(week2)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110153809.5">## &lt;b&gt;&lt;font&gt;第二週(week2)上課心得&lt;/font&gt;&lt;/b&gt;
 
 本週上課學到如何在Pelican裡編輯blog還有如何利用ShareX截圖並編輯CMSimfly網站外還有如何維護reveal＆blog
 
@@ -424,7 +421,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153817.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第三週(week3)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110153817.3">## &lt;b&gt;&lt;font&gt;第三週(week3)上課內容&lt;/font&gt;&lt;/b&gt;
 
 * 1.Git的基本練習。
 
@@ -433,23 +430,6 @@ vertical: body pane on the botton</t>
 * 3.git log --graph --oneline --all可以看到各個提交點間的關係
 
 * 4.隨身碟要置入p37。
-</t>
-<t tx="leo.20190110153817.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190110153817.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第三週(week3)上課心得&lt;/font&gt;&lt;/b&gt;
-
-本週上課內容是在學習Git的基本操作練習，很高興老師今天特別複習了Git的基本操作，之前很常常在做clone或推送時老是搞不懂程式碼的意義，而在老師詳細的講解下也終於搞懂這些基本程式碼的意義與用法了。
-上完課後更加的了解在程式開發過程中，可以透過git分散式版本管理系統的功能，以具有彈性的流程進行程式碼編寫，而且當編輯人員較多時，git及github則可以發揮其條理式的開發，且安全的保存各個版次的資料內容。
-
 </t>
 <t tx="leo.20190110153832.1">&lt;section&gt;
 @others
@@ -468,7 +448,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153832.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第四週(week4)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110153832.5">## &lt;b&gt;&lt;font&gt;第四週(week4)上課心得&lt;/font&gt;&lt;/b&gt;
 
 本週上課內容主要是在複習前幾週所教的內容像是CMSimfly、reveal、blog維護，而本週上課老師有說要在課堂繪製onshape 1-1-Lesson Plan裡面的四張圖做為練習，至於目前為止每週只有更新投影片跟CMSimfly網站，而blog的編輯目前有些許概念，但仍有不熟的地方所以還在摸索中，等熟悉之後會盡快補上更新內容。
 
@@ -490,7 +470,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153843.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第五週(week5)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110153843.5">## &lt;b&gt;&lt;font&gt;第五週(week5)上課心得&lt;/font&gt;&lt;/b&gt;
 
 本週上課內容是更新git版本以及複習OnshapeWeek1的學習要點以及教學OnshapeWeek2的學習要點；在回家練習2-1-Lesson Plan裡面的三個圖案時雖然看圖就可以知道怎麼繪製了，但最後還是有一一的試著讀過每個英文說明的操作步驟，雖然過程花很多時間，但也順便學習了一下英文閱讀及專業上的英文用法以及了解到電腦繪圖時所該注重的一些細節也是一舉兩得的。
 
@@ -512,7 +492,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153854.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110153854.3">## &lt;b&gt;&lt;font&gt;第六週(week6)上課內容&lt;/font&gt;&lt;/b&gt;
 
 * 1.有關人事時地物等關鍵內容的架構安排。
 人：在第九週前皆為個人學習onshape lesson plan(12個)，第九週後開始分組作業報告。
@@ -543,7 +523,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153926.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第七週(week7)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110153926.3">## &lt;b&gt;&lt;font&gt;第七週(week7)上課內容&lt;/font&gt;&lt;/b&gt;
 
 * 1.學習如果github出問題無法登入的(原因是：網路裝置與資料庫故障)的處理方式。
 
@@ -567,7 +547,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153926.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第七週(week7)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110153926.5">## &lt;b&gt;&lt;font&gt;第七週(week7)上課心得&lt;/font&gt;&lt;/b&gt;
 
 本周進度有將
 1.CMSimfly網頁裡的onshape-Lesson plan裡的重點及所有操作影片整理過分類。
@@ -587,11 +567,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20190110153936.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
-## &lt;b&gt;&lt;font color="#00DDDD"&gt;第八週(week8)上課內容&lt;/font&gt;&lt;/b&gt;
+## &lt;b&gt;&lt;font&gt;第八週(week8)上課內容&lt;/font&gt;&lt;/b&gt;
 
-*1.整理作業資料。
-
-* 2.回家作業：繪製onshape week5 homework、練習Lesson plan重點。
+*1.整理網站架構。
 
     &lt;/script&gt;
 &lt;/section&gt;
@@ -627,7 +605,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153946.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第九週(week9)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110153946.3">## &lt;b&gt;&lt;font&gt;第九週(week9)上課內容&lt;/font&gt;&lt;/b&gt;
 
 * 1.期中自評70分。
 
@@ -645,7 +623,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153946.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第九週(week9)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110153946.5">## &lt;b&gt;&lt;font&gt;第九週(week9)上課心得&lt;/font&gt;&lt;/b&gt;
 
 本週是期末考週自評，給自己評分是70分，會打這個分數給自己是因為每一週的課程我都有跟著老師上課的進度在走
 對於每一週的onshape也都一直有在做作業以及閱讀每一週所介紹的課程計劃
@@ -669,7 +647,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154009.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十週(week10)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154009.3">## &lt;b&gt;&lt;font&gt;第十週(week10)上課內容&lt;/font&gt;&lt;/b&gt;
 
 校慶運動會全校放假一天。
 
@@ -691,7 +669,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154018.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十一週(week11)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154018.3">## &lt;b&gt;&lt;font&gt;第十一週(week11)上課內容&lt;/font&gt;&lt;/b&gt;
 
 * 1.可攜式系統更新(p37版本→p37-18.12版本)。
 
@@ -716,7 +694,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154018.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十一週(week11)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154018.5">## &lt;b&gt;&lt;font&gt;第十一週(week11)上課心得&lt;/font&gt;&lt;/b&gt;
 
 分組專題開始。
 利用 Heroku 建立協同的環境以便小組在作業時更加便利以及達到同步的作用，在接下來的編輯時只要推送小組倉儲即在該環境一起同步。
@@ -739,7 +717,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154035.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十二週(week12)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154035.3">## &lt;b&gt;&lt;font&gt;第十二週(week12)上課內容&lt;/font&gt;&lt;/b&gt;
 
 * 1.編輯小組網站頁面。
 
@@ -759,7 +737,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154035.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十二週(week12)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154035.5">## &lt;b&gt;&lt;font&gt;第十二週(week12)上課心得&lt;/font&gt;&lt;/b&gt;
 
 確定期末專題題目──機械手臂。
 小組網站會呈現內容，章節目錄、分項等資料放置規劃。
@@ -782,7 +760,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154048.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十三週(week13)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154048.3">## &lt;b&gt;&lt;font&gt;第十三週(week13)上課內容&lt;/font&gt;&lt;/b&gt;
 
 * 1.修改小組網站的呈現內容(每周上課要點名、建立Final_Report、網站Title)。
 
@@ -802,7 +780,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154048.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十三週(week13)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154048.5">## &lt;b&gt;&lt;font&gt;第十三週(week13)上課心得&lt;/font&gt;&lt;/b&gt;
 
 搜尋跟期末專題相關資料
 除了要用分組的作業，期中前的Onshape_homework也一樣要持續進行，其中後的Onshape_homework進入小組分工後，各組員開始各自僅入分工位置。
@@ -825,7 +803,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154100.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十四週(week14)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154100.5">## &lt;b&gt;&lt;font&gt;第十四週(week14)上課心得&lt;/font&gt;&lt;/b&gt;
 
 除了進行V-rep的操作之外，也跟著Inverse Kinematics Tutorial文獻逐字逐句透過https://www.merriam-webster.com/ 線上英英字典進行輔助。操作文案翻譯後，對操作上的效率大幅提升，縮短猜測以及錯誤的關鍵詞搜索造成不必要的錯誤。
 </t>
@@ -846,7 +824,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154110.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十五週(week15)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154110.3">## &lt;b&gt;&lt;font&gt;第十五週(week15)上課內容&lt;/font&gt;&lt;/b&gt;
 
 * 1.紀錄期末專題分組之組員分工所做之紀錄
 
@@ -862,7 +840,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154110.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十五週(week15)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154110.5">## &lt;b&gt;&lt;font&gt;第十五週(week15)上課心得&lt;/font&gt;&lt;/b&gt;
 
 本週建立了雲端協同的報告檔了，也把在報告檔案建立前所整理的資料都編輯上去了，但在本週老師檢查時，發現無法得知小組內容是由誰編輯的，其實詳細皆在小組網站裡，這時發現雲端內還原來也會記錄我們每個人的編輯紀錄。
 老師最初無法件事的原因，是因為所使用的方法，必須擁有權限才可以共同檢視、編輯，該編輯紀錄呈現為使用者在雲端進行編輯的動作，雖然會記錄但是無法和github倉儲更新時同步被紀錄被存，目錄化的識別有了可是時間軸上的分項化還無法做到。
@@ -886,7 +864,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154121.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十六週(week16)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154121.3">## &lt;b&gt;&lt;font&gt;第十六週(week16)上課內容&lt;/font&gt;&lt;/b&gt;
 
 * 1.期末考週前每人需準備一支3分鐘的影片，進行課程學習報告，並且上船各組期末分組網站。
 
@@ -906,7 +884,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154121.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十六週(week16)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154121.5">## &lt;b&gt;&lt;font&gt;第十六週(week16)上課心得&lt;/font&gt;&lt;/b&gt;
 
 本週仍然繼續期末小組專題。Inverse Kinematics Tutorial文獻翻譯也完成了，當中的分頁也進一步瀏覽。
 整理重點準備錄製3分鐘的課程學習報告影片，該是靜下來思考本學習在這一系列的學程中究竟學了什麼，或是有沒有像老師說的"比昨天更進步"，或者至少"比學期初更進步"。
@@ -928,12 +906,12 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110154132.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十七週(week17)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110154132.3">## &lt;b&gt;&lt;font&gt;第十七週(week17)上課內容&lt;/font&gt;&lt;/b&gt;
 
 
-回家作業：期末專題分組作業。
+期末分組專題
 
-</t>
+個人三分鐘本學期學習重點</t>
 <t tx="leo.20190110180858.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
