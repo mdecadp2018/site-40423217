@@ -21,18 +21,15 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20190110180858.1"><vh>封面投影片</vh>
+<v t="leo.20190110180858.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20190110180858.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190110153759.1"><vh>第一週(week1)9/14</vh>
+<v t="leo.20190110153759.1" a="E"><vh>第一週(week1)9/14</vh>
 <v t="leo.20190110153759.2" a="E"><vh>第一週(week1)課程內容</vh>
 <v t="leo.20190110153759.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20190110153759.4" a="E"><vh>第一週(week1)上課心得</vh>
-<v t="leo.20190110153759.5"><vh>心得</vh></v>
 </v>
-</v>
-<v t="leo.20190110153809.1"><vh>第二週(week2)9/21</vh>
+<v t="leo.20190110153809.1" a="E"><vh>第二週(week2)9/21</vh>
 <v t="leo.20190110153809.2" a="E"><vh>第二週(week2)課程內容</vh>
 <v t="leo.20190110153809.3"><vh>內容</vh></v>
 </v>
@@ -43,7 +40,7 @@
 <v t="leo.20190110153809.7"><vh>操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20190110153817.1"><vh>第三週(week3)9/28</vh>
+<v t="leo.20190110153817.1" a="E"><vh>第三週(week3)9/28</vh>
 <v t="leo.20190110153817.2" a="E"><vh>第三週(week3)課程內容</vh>
 <v t="leo.20190110153817.3"><vh>內容</vh></v>
 </v>
@@ -51,22 +48,22 @@
 <v t="leo.20190110153817.5"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20190110153832.1"><vh>第四週(week4)10/05</vh>
+<v t="leo.20190110153832.1" a="E"><vh>第四週(week4)10/05</vh>
 <v t="leo.20190110153832.4" a="E"><vh>第四週(week4)公假</vh>
 <v t="leo.20190110153832.5"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20190110153843.1"><vh>第五週(week5)10/12</vh>
+<v t="leo.20190110153843.1" a="E"><vh>第五週(week5)10/12</vh>
 <v t="leo.20190110153843.4" a="E"><vh>第五週(week5)公假</vh>
 <v t="leo.20190110153843.5"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20190110153854.1"><vh>第六週(week6)10/19</vh>
+<v t="leo.20190110153854.1" a="E"><vh>第六週(week6)10/19</vh>
 <v t="leo.20190110153854.2" a="E"><vh>第六週(week6)課程內容</vh>
 <v t="leo.20190110153854.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20190110153926.1"><vh>第七週(week7)10/26</vh>
+<v t="leo.20190110153926.1" a="E"><vh>第七週(week7)10/26</vh>
 <v t="leo.20190110153926.2" a="E"><vh>第七週(week7)課程內容</vh>
 <v t="leo.20190110153926.3"><vh>內容</vh></v>
 </v>
@@ -74,13 +71,8 @@
 <v t="leo.20190110153926.5"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20190110153936.1"><vh>第八週(week8)11/02</vh>
-<v t="leo.20190110153936.2" a="E"><vh>第八週(week8)課程內容</vh>
-<v t="leo.20190110153936.3"><vh>內容</vh></v>
-</v>
-<v t="leo.20190110153936.4" a="E"><vh>第八週(week8)上課心得</vh>
-<v t="leo.20190110153936.5"><vh>心得</vh></v>
-</v>
+<v t="leo.20190110153936.1" a="E"><vh>第八週(week8)11/02</vh>
+<v t="leo.20190110153936.4"><vh>第八週(week8)上課心得</vh></v>
 </v>
 <v t="leo.20190110153946.1" a="E"><vh>第九週(week9)11/09</vh>
 <v t="leo.20190110153946.2" a="E"><vh>第九週(week9)課程內容</vh>
@@ -333,7 +325,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153759.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110153759.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)上課內容&lt;/font&gt;
 
 * 1.進入Github帳號後，連結至[mdecadp2018](https://classroom.github.com/a/fGqXU9kO )，以領取期中作業。
 
@@ -348,22 +340,6 @@ vertical: body pane on the botton</t>
 * 6.從clone下的資料夾裡的https-server.py放入SciTE,將https://localhost:8444 在近端檢查靜態網頁
 
 * 7.使用reveal編輯投影片、使用指令python wsgi.py編輯靜態網頁、使用pelican編輯網誌。
-
-</t>
-<t tx="leo.20190110153759.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190110153759.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)上課心得&lt;/font&gt;&lt;/b&gt;
-
-這學期是以重修生的身分來修這門課，或許是因為重修的關係，所以這次上課是有上手許多，上課過程中的操作步驟也都很熟悉，只是有些操作指令有遺忘，但也很快就解決了，本週雖然是第一次上課，但也因為有先前不及格的案例，所以不敢有任何絲毫懈怠，畢竟之前就是都把所有東西累積到最後一刻才趕不完，所以這學期將會緊跟著老師上的進度及一步一步的去完成這學期的老師交代的東西。
 
 </t>
 <t tx="leo.20190110153809.1">&lt;section&gt;
@@ -412,7 +388,9 @@ vertical: body pane on the botton</t>
 
 網站編輯。透過工作欄位"Formats"等功能嘗試修改文字屬性，調整內文以及架構等。原先課程中編輯好織架構，在匯入影檔連結及圖檔時出現錯誤
 
-大量資料編輯(移動、新增、刪除等)會造成動態網頁進行儲存時出錯 Error ，解決方法為回到上一版本重新編輯，編輯告一段落時必須推送留存。</t>
+大量資料編輯(移動、新增、刪除等)會造成動態網頁進行儲存時出錯 Error ，解決方法為回到上一版本重新編輯，編輯告一段落時必須推送留存。
+
+</t>
 <t tx="leo.20190110153809.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -545,7 +523,9 @@ vertical: body pane on the botton</t>
 
 * 2.將onshape lesson plan 之重點寫入cmsfimly
 
-* 3.將youtube video 連結放入github issue</t>
+* 3.將youtube video 連結放入github issue
+
+</t>
 <t tx="leo.20190110153926.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -604,25 +584,22 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110153936.2">&lt;section data-markdown&gt;
+<t tx="leo.20190110153936.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190110153936.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第八週(week8)上課內容&lt;/font&gt;&lt;/b&gt;
+## &lt;b&gt;&lt;font color="#00DDDD"&gt;第八週(week8)上課內容&lt;/font&gt;&lt;/b&gt;
 
 *1.整理作業資料。
 
 * 2.回家作業：繪製onshape week5 homework、練習Lesson plan重點。
 
-</t>
-<t tx="leo.20190110153936.4">&lt;section data-markdown&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -632,12 +609,6 @@ vertical: body pane on the botton</t>
 
 
 						
-</t>
-<t tx="leo.20190110153936.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第八週(week8)上課心得&lt;/font&gt;&lt;/b&gt;
-
-在上一週就開始有在進行作業整理的動作了，所以本週在整理的過程並沒有花費太多時間，也將一些之前有缺漏的部分盡量補齊，好讓之後分組作業時減輕組內的負擔。
-
-
 </t>
 <t tx="leo.20190110153946.1">&lt;section&gt;
 @others
@@ -660,11 +631,7 @@ vertical: body pane on the botton</t>
 
 * 1.期中自評70分。
 
-* 2.期末專題分組建立組別[finalproject-ag1](https://github.com/mdecadp2018/finalproject-ag1)。
-
-* 3.回家作業：繪製onshape week6 homework、練習Lesson plan重點。
-
-</t>
+* 2.期末專題分組建立組別[finalproject-ag1](https://github.com/mdecadp2018/finalproject-ag1)。</t>
 <t tx="leo.20190110153946.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -678,7 +645,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20190110153946.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第九週(week9)上課心得&lt;/font&gt;&lt;/b&gt;
 
-本週是期末考週自評，給自己評分是70分，會打這個分數給自己是因為每一週的課程我都有跟著老師上課的進度在走，對於每一週的onshape也都一直有在做作業以及閱讀每一週所介紹的課程計劃，即便過程中可能有進度上的延遲，也都盡可能地在時間內趕緊補上，但在期中考前關於onshape作業的部分仍有些許沒有完成，所以期中考自評我只打了70分，期許及警惕自己仍有更多的努力發揮空間。
+本週是期末考週自評，給自己評分是70分，會打這個分數給自己是因為每一週的課程我都有跟著老師上課的進度在走
+對於每一週的onshape也都一直有在做作業以及閱讀每一週所介紹的課程計劃
+但在期中考前關於onshape作業的部分仍有些許沒有完成，所以期中考自評我只打了70分
 
 </t>
 <t tx="leo.20190110154009.1">&lt;section&gt;
@@ -733,9 +702,6 @@ vertical: body pane on the botton</t>
 * 3.將小組倉儲與個人倉儲建立一個Fork並git clone下來(往後除了組長以外，組員都是用Fork版本編輯)。
 
 * 4.將上述第2點及第3點的資料進行同步，意思就是將Heroku與小組倉儲建立同步(將小組clone下來的資料夾裡的檔案全部複製貼上到Herokuclone下來的資料夾)。
-
-* 5.回家作業：繪製onshape week7 homework、練習Lesson plan重點、期末專題分組作業
-
 </t>
 <t tx="leo.20190110154018.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -751,7 +717,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20190110154018.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十一週(week11)上課心得&lt;/font&gt;&lt;/b&gt;
 
 分組專題開始。
-利用 Heroku 建立協同的環境以便小組在作業時更加便利以及達到同步的作用，在接下來的編輯時只要推送小組倉儲即在該環境一起同步。</t>
+利用 Heroku 建立協同的環境以便小組在作業時更加便利以及達到同步的作用，在接下來的編輯時只要推送小組倉儲即在該環境一起同步。
+
+</t>
 <t tx="leo.20190110154035.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -878,7 +846,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20190110154110.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十五週(week15)上課內容&lt;/font&gt;&lt;/b&gt;
 
-* 1.紀錄期末專題分組之組員分工所做之紀錄</t>
+* 1.紀錄期末專題分組之組員分工所做之紀錄
+
+</t>
 <t tx="leo.20190110154110.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -959,7 +929,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20190110154132.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十七週(week17)上課內容&lt;/font&gt;&lt;/b&gt;
 
 
-回家作業：期末專題分組作業。</t>
+回家作業：期末專題分組作業。
+
+</t>
 <t tx="leo.20190110180858.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -969,7 +941,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190110180858.2">## &lt;b&gt;&lt;font color="#FFFF00"&gt;40423217_2019reveal&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20190110180858.2">## &lt;b&gt;&lt;font color="#FFFF00"&gt;40423217_2019reveal&lt;/font&gt;
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
